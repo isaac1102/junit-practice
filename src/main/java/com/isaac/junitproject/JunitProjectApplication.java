@@ -10,4 +10,5 @@ public class JunitProjectApplication {
 		SpringApplication.run(JunitProjectApplication.class, args);
 	}
 
+	
 }
